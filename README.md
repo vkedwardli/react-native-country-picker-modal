@@ -7,6 +7,8 @@ support](https://img.shields.io/badge/exponent-ios%20%7C%20android-blue.svg?styl
 
 # react-native-country-picker-modal
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcarpentier/react-native-country-picker-modal.svg)](https://greenkeeper.io/)
+
 The best Country Picker for React Native.
 
 [**Demo on Exponent**](https://getexponent.com/@xcarpentier/react-native-country-picker-demo)
