@@ -298,7 +298,7 @@ export default class CountryPicker extends Component {
       <View style={styles.itemCountry}>
         {CountryPicker.renderFlag(cca2)}
         <View style={styles.itemCountryName}>
-          <Text style={styles.countryName}>{this.getCountryName(country)}</Text>
+          <Text style={styles.countryName}>{this.getCountryName(country)} (+{ country.callingCode })</Text>
         </View>
       </View>
     );
